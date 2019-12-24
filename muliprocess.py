@@ -1,6 +1,4 @@
-from multiprocessing import Process,freeze_support
-import os
-import math
+
 
 
 if __name__ =='__main__':
