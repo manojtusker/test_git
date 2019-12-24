@@ -3,10 +3,6 @@ import os
 import math
 
 
-def calc():
-    for i in range(0, 4000000):
-        math.sqrt(i)
-
 if __name__ =='__main__':
     # freeze_support()      # If the freeze_support() line is omitted then trying to run the frozen executable will raise RuntimeError.
 
